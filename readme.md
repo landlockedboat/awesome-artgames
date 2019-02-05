@@ -10,24 +10,18 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Art_game):
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Games](#games)
+- [Resources](#resources)
 
 
-## Section
+## Games
 
-About this section. Optional. Keep this short and focus on the list.
+- [Everything](http://www.everything-game.com)
+- [Papers, please](http://papersplea.se)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Resources
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd.
 
 
 ## Contribute
